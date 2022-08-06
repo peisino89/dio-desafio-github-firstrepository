@@ -1,0 +1,15 @@
+Git/GitHub:
+Clonar Repositório pelo Link:
+
+- Usar Git Bash here
+- git clone "link"
+
+
+Verificar status de um repositório:
+
+- git status
+
+Atualizando repositório da máquina para Nuvem:
+- git commit -m "Mensagem da Atualização de versão"
+- usar o git push para atualizazr o arquivo.
+- git push origin main
